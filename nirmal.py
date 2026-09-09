@@ -1,0 +1,1 @@
+print("Nirmal is my bestfriend")
