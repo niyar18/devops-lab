@@ -1,8 +1,12 @@
 print("----Moi eta Calculator----")
 
-a = input("number eta dia mok")
-b = input("ru eta number dia mok")
+a = input("number 1 : ")
+b = input("number 2 : ")
 
-def multi(a, b):
-    return a*b
+def add(a, b):
+    return a+b
+
+def subtract(a, b):
+    return a-b
+
 print("BYE")
